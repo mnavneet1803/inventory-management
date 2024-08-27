@@ -1,1 +1,1 @@
-# inventory-management
+# dashboard-clone
